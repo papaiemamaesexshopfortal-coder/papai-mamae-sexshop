@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://papai-mamae-sexshop.vercel.app/sitemap.xml
